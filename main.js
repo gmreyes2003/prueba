@@ -1,0 +1,7 @@
+//codigo
+
+function hola(){
+
+alert();
+
+}
